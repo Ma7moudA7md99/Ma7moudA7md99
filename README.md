@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ma7moudA7md99
+- 👋 Hi, I’m Mahmoud Ahmed
 - 👀 I’m interested in ... programming specially web design { still beginner }
 - 🌱 I’m currently learning ... in FCI
 - 💞️ I’m looking to collaborate on ... 2024
