@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mahmoud Ahmed
 - 👀 I’m interested in ... programming specially web design { still beginner }
-- 🌱 I’m currently learning ... in FCI
-- 💞️ I’m looking to collaborate on ... 2024
+- 🌱 I’m fresh graduated from Faculty of Computers and Information Kafr-Elshiekh Univertsy
 - 📫 How to reach me ... my facebook: [Facebook Page](https://www.facebook.com/Ma7moudA7md99)
 
 <!---
